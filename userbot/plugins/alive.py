@@ -22,10 +22,10 @@ async def amireallyalive(alive):
                      "`IP:` 3.82.66.232\n"
                      "`SYSTEM TYPE:` LINUX\n"
                      "`BASED ON:` UNIBORG\n"
-                     "`SATELLITE:` ⚡STARK SAT-2⚡\n"
+                     "`SATELLITE:` ⚡UTSAV SAT-2⚡\n"
                      "`MADE USING:` PYTHON\n"
                      f"`MY BOSS`: {DEFAULTUSER}\n\n"
                      "ALWAYS WITH YOU MY BOSS\n\n"
                      "`SATELLITE STATUS: ✅ Alive\n\n"
-                     "[⚡DEPLOY FRIDAY⚡](https://github.com/StarkGang/FRIDAYUserbot)") 
+                     "[⚡UTSAV USER BOT⚡](https://t.me/OFFICIAL_MADRACER)") 
 
